@@ -1,5 +1,37 @@
 # assembly examples
 
+
+Requirements
+---
+
+	* clang
+	* otool
+
+
+Examples
+---
+
+	* a call stack sequence
+	* swap (a canonical example)
+	* tbd ...
+
+Run 
+---
+
+Use the provided script `run` with a provided directory as argument to compile the corresponding c code sample and display its assembly code.
+
+For example
+
+```
+./run callstack
+
+```
+
+
+Discussion
+---
+
+
 callstack
 
 ```
@@ -55,3 +87,4 @@ _main:
 ```
 
 is this correct?
+
