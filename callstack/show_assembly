@@ -1,0 +1,4 @@
+cc -g main.c 
+otool -tvV a.out
+
+
