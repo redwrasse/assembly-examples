@@ -49,7 +49,7 @@ the order of stack ops should be
 
 The stack procedure is in this case: push main, push f, push 1, compute 1, pop 1, compute f, pop f, push g, push 2, compute 2, pop 2, compute g, pop g, compute main, pop main.
 
-(ref blog post)
+
 
 
 assembly comes out
